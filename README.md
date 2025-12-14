@@ -14,3 +14,9 @@ A simple and effective **Captcha Generator** built with **HTML, CSS and JavaScri
 - 🔁 **Refresh button** : Quickly regenerate a new captcha image.  
 - 🔒 **Form security** : Helps prevent automated submissions in contact forms, login pages and more.  
 - 🧪 **Beginner friendly** : Perfect for learning DOM manipulation, canvas and validation logic.
+
+ ---
+ 
+## 🖼️ Screenshot
+
+<img width="430" height="421" alt="Screenshot 2025-12-14 143043" src="https://github.com/user-attachments/assets/deec8582-3a24-4ca2-9fd1-98bfe30e3ddf" />

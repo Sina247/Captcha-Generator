@@ -1,4 +1,3 @@
-<img width="1919" height="944" alt="Screenshot 2026-05-30 083734" src="https://github.com/user-attachments/assets/ad1dbadb-3a67-4615-806e-541dea010d89" />
 # 🔐 Captcha Generator
 
 A simple and effective **Captcha Generator** built with **HTML, CSS and JavaScript**. It creates dynamic, randomized verification codes to protect your forms from bots while staying lightweight and easy to customize.
